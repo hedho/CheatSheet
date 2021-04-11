@@ -62,9 +62,9 @@ u - undo
 `ESC, :set number`
 ### Delete a line
 `dd`
-# Jump to first line
+### Jump to first line
 `gg`
-# Jump to last/bottom line
+### Jump to last/bottom line
 `SHIFT+G`
 `G`
 ### Exit INSERT mode
