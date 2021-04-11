@@ -29,49 +29,49 @@
 /
 `
 
-### Enter INSERT MODE
+#### Enter INSERT MODE
 `i`
-### Exit the document
+#### Exit the document
 `:q`
-### Exit the document without saving
+#### Exit the document without saving
 `:q!`
-### Navigate UP/DOWN
+#### Navigate UP/DOWN
 `
 j - for up
 k - for down
 `
-### Navigate Right/Left
+#### Navigate Right/Left
 `l - for left
 h - for right
 `
-### Exit and Save
+#### Exit and Save
 `:wq`
-### Undo 
+#### Undo 
 `
 u - undo
 :u - undo
 :undo - undo
 `
-### Search and Replace ALL for single change u just type "%s/keyword/newkeyword/ without G
+#### Search and Replace ALL for single change u just type "%s/keyword/newkeyword/ without G
 `%s/keyword/whatuwanttoreplace/g - Replaces anything whith whatuwanttoreplace that is known as keyword`
-### How to save and quit
+#### How to save and quit
 `ESC; :wq - Write and quit or a.k.a Save and quit`
-### How to search
+#### How to search
 `/keywoard`
-### Show number lines
+#### Show number lines
 `ESC, :set number`
-### Delete a line
+#### Delete a line
 `dd`
-### Jump to first line
+#### Jump to first line
 `gg`
-### Jump to last/bottom line
+#### Jump to last/bottom line
 `SHIFT+G`
 `G`
-### Exit INSERT mode
+#### Exit INSERT mode
 `ESC`
-### Enable Syntax
+#### Enable Syntax
 `:syntax on`
-### Disable Syntax
+#### Disable Syntax
 `:syntax off`
-### Go to specific line
+#### Go to specific line
 `/20 - Sents you to line 20`
