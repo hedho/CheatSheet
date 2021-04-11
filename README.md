@@ -65,8 +65,10 @@ u - undo
 #### Jump to first line
 `gg`
 #### Jump to last/bottom line
-`SHIFT+G`
-`G`
+`
+SHIFT+G
+G
+`
 #### Exit INSERT mode
 `ESC`
 #### Enable Syntax
