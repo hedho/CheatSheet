@@ -78,5 +78,3 @@ G
 `:syntax off`
 #### Go to specific line
 `/20 - Sents you to line 20`
-
-<code>test</code>
