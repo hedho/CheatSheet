@@ -1,3 +1,6 @@
+# VIM CHEAT SHEET FROM monaco
+----
+
 [How to enter console mode](#how-to-enter-console-mode)<br>
 [How to triger console](#how-to-triger-console)<br>
 [Enter INSERT mode](#enter-insert-mode)<br>
@@ -18,8 +21,6 @@
 [Enable Syntax](#enable-syntax)<br>
 [Disable Syntax](#disable-syntax)<br>
 [Go to specific line](#go-to-specific-line)<br>
-
-# VIM CHEAT SHEET FROM monaco
 
 ### How to enter console mode
 `ESC - Escape on you're keyboard so you can use console`
